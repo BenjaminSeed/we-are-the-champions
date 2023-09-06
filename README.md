@@ -1,21 +1,20 @@
-# co47f470b8e27f78f2ffe6d09
+# We Are the Champions
 
-Quick start:
+We Are the Champions is a minimal web/ mobile application that allows you to write endorsements and display them on a list.
 
-```
-$ npm install
-$ npm start
-````
+## Getting Started
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in your web browser to launch the application.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Usage
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+1. Write your endorsement message in the provided text area.
+2. Optionally, enter the "From" and "To" information in the input fields (to be completed).
+3. Click the "Publish" button to add your endorsement to the list.
+4. Your endorsement will be displayed in the list.
+5. Endorsements can be deleted by clicking on them.
 
-Happy Coding!
+## If I had more time
+
+- Create endorsements with optional "From" and "To" information.
