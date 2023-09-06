@@ -46,7 +46,6 @@ function newEndorsement(newInput) {
     
     newEl.textContent = entryText
     
-    //// Challenge: Make a let variable called 'exactLocationOfItemInDB' and set it equal to ref(database, something) where you substitute something with the code that will give you the exact location of the item in question.
     
     newEl.addEventListener("click", function() {
         let locationOfItemInDB = ref(database, `endorsements/${entryId}`)
